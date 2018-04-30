@@ -1,7 +1,7 @@
 # DesktopTouch
 Enables testing mobile input from the unity editor
 
-#Useage
+# Useage
 Attach DesktopTouch.cs to a gameobject
 
     Credits: 
