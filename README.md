@@ -10,3 +10,6 @@ Attach DesktopTouch.cs to a gameobject
   
     Original
     https://github.com/sschoener/cities-skylines-detour
+
+# To Do 
+- Add Multi-touch support
