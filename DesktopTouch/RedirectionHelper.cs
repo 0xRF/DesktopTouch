@@ -6,7 +6,7 @@ using UnityEngine;
 
 /*
     Credits: 
-    Modified Redirection To Work On OSX/Linux & Windows
+    Simplified Redirection
     https://github.com/Trojaner25/RocketPlus/blob/master/Detour/RedirectionHelper.cs
   
     Original
